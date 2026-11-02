@@ -39,3 +39,11 @@ I believe in learning by doing, experimenting with new ideas, and continuously i
 This repository serves as a record of my academic activities, programming exercises, projects, technical experiments and overall learning journey throughout my engineering journey.
 
 Building my foundation in programming and software development.
+
+### 🌟 My Interests
+
+I am interested in software development, web technologies, artificial intelligence and exploring innovative technological solutions. Apart from coding, I enjoy creative activities such as music, singing and drawing. I love combining creativity with technology to explore new ideas and build meaningful experiences.
+
+### 🎯 My Future Goals
+
+My goal is to become a skilled and adaptable software developer with strong technical and problem-solving abilities. I aspire to build innovative projects, gain practical industry experience, explore emerging technologies and contribute to meaningful solutions. I look forward to continuously learning, challenging myself and growing both personally and professionally.
