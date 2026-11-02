@@ -40,3 +40,6 @@ This repository serves as a record of my academic activities, programming exerci
 
 Building my foundation in programming and software development.
 
+### 🌟 My Interests
+
+I am interested in software development, web technologies, artificial intelligence and exploring innovative technological solutions. Apart from coding, I enjoy creative activities such as music, singing and drawing. I love combining creativity with technology to explore new ideas and build meaningful experiences.
