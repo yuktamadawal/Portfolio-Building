@@ -47,3 +47,14 @@ I am interested in software development, web technologies, artificial intelligen
 ### 🎯 My Future Goals
 
 My goal is to become a skilled and adaptable software developer with strong technical and problem-solving abilities. I aspire to build innovative projects, gain practical industry experience, explore emerging technologies and contribute to meaningful solutions. I look forward to continuously learning, challenging myself and growing both personally and professionally.
+
+## 🚀 My Projects
+
+I enjoy applying my technical knowledge to build practical applications and explore innovative ideas. Some of my projects include:
+
+* **IPL Ticket Booking Website:** A web-based application developed using HTML, CSS and JavaScript to explore the process of online ticket booking.
+* **CivicEye:** An AI-assisted civic issue reporting concept designed to identify public infrastructure problems and help prioritize them.
+* **Employee Management System:** A database-based application designed to manage employee information and records.
+
+I look forward to building more projects and improving my development skills through hands-on experience.
+
