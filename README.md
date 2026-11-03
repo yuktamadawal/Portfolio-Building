@@ -58,3 +58,13 @@ I enjoy applying my technical knowledge to build practical applications and expl
 
 I look forward to building more projects and improving my development skills through hands-on experience.
 
+## Collaboration Log
+
+- Partner Name: Yashmitha S
+- GitHub Username: Yashmitha-S
+
+### Work Completed
+Collaboratively developed a greet() function in C using Visual Studio Code Live Share. The function accepts a person's name and displays a personalized greeting.
+
+### Learning Outcome
+Learned how to use GitLens to inspect commit history and Git Blame to identify code authorship. Also learned how Live Share enables real-time collaborative coding.
